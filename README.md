@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shalini Singh Rana 👋
 
-<!--
-**ShaliniSinghRana-AI/ShaliniSinghRana-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 12th-grade student | 👩‍💻 Aspiring AI/ML Developer  
+🚀 Founder of [Axen AI](https://github.com/AxenAI3) – Building tools for Young Entrepreneurs
+🇰🇷 Preparing for KAIST (South Korea)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning Journey
+- Python, Machine Learning, and Prompt Engineering
+- Working on AI-based products that solve real-world problems
+
+## 🛠 Current Project
+**AxenStarter** – An AI tool to help Young Entrepreneurs generate startup ideas
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/shalini-singh-rana-a91887366)
+- [Instagram](https://www.instagram.com/shalinisinghrana.in)
+- [YouTube](https://youtube.com/@ShaliniSinghRanaAI)
+
+> “Dreaming big. Building bigger.”
