@@ -2,7 +2,6 @@
 
 🎓 12th-grade student | 👩‍💻 Aspiring AI/ML Developer  
 🚀 Founder of [Axen AI](https://github.com/AxenAI3) – Building tools for Young Entrepreneurs
-🇰🇷 Preparing for KAIST (South Korea)
 
 ---
 
